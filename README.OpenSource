@@ -1,17 +1,10 @@
 [
     {
         "Name": "dav1d",                   # 上游开源软件名全称
-        "License": "Public Domain Disclaimer",         # 上游开源软件中包含的许可证信息
+        "License": "BSD-2-Clause",         # 上游开源软件中包含的许可证信息
         "License File": "COPYING" ,      # 许可证所在文件路径
         "Version Number":"6624e1367309630b2f6df3cf93a5f864e89973f9",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/videolan/dav1d.git@7b99b0e17fbd86f0847684798b182f9122545580",   # 上游软件包发布地址
-        "Description": "chromium解码"           # 开源软件功能描述
-    },
-    {
-        "Name": "dav1d",                   # 上游开源软件名全称
-        "License": "Unknown License file reference",         # 上游开源软件中包含的许可证信息
-        "License File": "COPYING" ,      # 许可证所在文件路径
-        "Version Number":"6624e1367309630b2f6df3cf93a5f864e89973f9",
+        "Owner": "liujixin@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/videolan/dav1d.git@7b99b0e17fbd86f0847684798b182f9122545580",   # 上游软件包发布地址
         "Description": "chromium解码"           # 开源软件功能描述
     }
