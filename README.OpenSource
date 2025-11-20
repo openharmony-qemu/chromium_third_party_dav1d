@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "dav1d",
+        "License": "BSD-2-Clause",
+        "License File": "COPYING" ,
+        "Version Number":"93f12c117a4e1c0cc2b129dcc52e84dbd9b84200",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/videolan/dav1d.git@93f12c117a4e1c0cc2b129dcc52e84dbd9b84200",
+        "Description": "chromium解码"
+    }
+]
